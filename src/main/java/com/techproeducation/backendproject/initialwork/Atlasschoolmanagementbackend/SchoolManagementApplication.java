@@ -10,4 +10,5 @@ public class SchoolManagementApplication {
 		SpringApplication.run(SchoolManagementApplication.class, args);
 	}
 
+	//Version1
 }
