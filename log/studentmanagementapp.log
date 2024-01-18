@@ -1,5 +1,5 @@
-"2024-01-17 13:42:19,319 INFO  [restartedMain] com.techproeducation.backendproject.initialwork.Atlasschoolmanagementbackend.SchoolManagementApplication:Starting SchoolManagementApplication using Java 18.0.1.1 with PID 45403 (/Users/cagatayarik/IdeaProjects/Atlas-school-management-backend/target/classes started by cagatayarik in /Users/cagatayarik/IdeaProjects/Atlas-school-management-backend)
-""2024-01-17 13:42:19,321 INFO  [restartedMain] com.techproeducation.backendproject.initialwork.Atlasschoolmanagementbackend.SchoolManagementApplication:No active profile set, falling back to 1 default profile: "default"
+"2024-01-17 13:42:19,319 INFO  [restartedMain] com.techproeducation.backendproject.initialwork.SchoolManagementApplication:Starting SchoolManagementApplication using Java 18.0.1.1 with PID 45403 (/Users/cagatayarik/IdeaProjects/Atlas-school-management-backend/target/classes started by cagatayarik in /Users/cagatayarik/IdeaProjects/Atlas-school-management-backend)
+""2024-01-17 13:42:19,321 INFO  [restartedMain] com.techproeducation.backendproject.initialwork.SchoolManagementApplication:No active profile set, falling back to 1 default profile: "default"
 ""2024-01-17 13:42:19,428 INFO  [restartedMain] org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor:Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
 ""2024-01-17 13:42:19,428 INFO  [restartedMain] org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor:For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
 ""2024-01-17 13:42:21,173 INFO  [restartedMain] org.springframework.data.repository.config.RepositoryConfigurationDelegate:Bootstrapping Spring Data JPA repositories in DEFAULT mode.
@@ -63,7 +63,7 @@
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:334)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1358)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1347)
-	at com.techproeducation.backendproject.initialwork.Atlasschoolmanagementbackend.SchoolManagementApplication.main(SchoolManagementApplication.java:10)
+	at com.techproeducation.backendproject.initialwork.SchoolManagementApplication.main(SchoolManagementApplication.java:10)
 	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
 	at java.base/java.lang.reflect.Method.invoke(Method.java:577)
 	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:50)
@@ -143,7 +143,7 @@ Error starting ApplicationContext. To display the condition evaluation report re
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:334)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1358)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1347)
-	at com.techproeducation.backendproject.initialwork.Atlasschoolmanagementbackend.SchoolManagementApplication.main(SchoolManagementApplication.java:10)
+	at com.techproeducation.backendproject.initialwork.SchoolManagementApplication.main(SchoolManagementApplication.java:10)
 	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
 	at java.base/java.lang.reflect.Method.invoke(Method.java:577)
 	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:50)
@@ -228,8 +228,8 @@ Caused by: java.lang.Throwable: null
 		at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:521)
 		at org.hibernate.boot.registry.classloading.internal.AggregatedClassLoader.findClass(AggregatedClassLoader.java:206)
 		... 51 common frames omitted
-"2024-01-17 13:42:55,552 INFO  [restartedMain] com.techproeducation.backendproject.initialwork.Atlasschoolmanagementbackend.SchoolManagementApplication:Starting SchoolManagementApplication using Java 18.0.1.1 with PID 45414 (/Users/cagatayarik/IdeaProjects/Atlas-school-management-backend/target/classes started by cagatayarik in /Users/cagatayarik/IdeaProjects/Atlas-school-management-backend)
-""2024-01-17 13:42:55,555 INFO  [restartedMain] com.techproeducation.backendproject.initialwork.Atlasschoolmanagementbackend.SchoolManagementApplication:No active profile set, falling back to 1 default profile: "default"
+"2024-01-17 13:42:55,552 INFO  [restartedMain] com.techproeducation.backendproject.initialwork.SchoolManagementApplication:Starting SchoolManagementApplication using Java 18.0.1.1 with PID 45414 (/Users/cagatayarik/IdeaProjects/Atlas-school-management-backend/target/classes started by cagatayarik in /Users/cagatayarik/IdeaProjects/Atlas-school-management-backend)
+""2024-01-17 13:42:55,555 INFO  [restartedMain] com.techproeducation.backendproject.initialwork.SchoolManagementApplication:No active profile set, falling back to 1 default profile: "default"
 ""2024-01-17 13:42:55,666 INFO  [restartedMain] org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor:Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
 ""2024-01-17 13:42:55,666 INFO  [restartedMain] org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor:For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
 ""2024-01-17 13:42:57,427 INFO  [restartedMain] org.springframework.data.repository.config.RepositoryConfigurationDelegate:Bootstrapping Spring Data JPA repositories in DEFAULT mode.
@@ -293,7 +293,7 @@ Caused by: java.lang.Throwable: null
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:334)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1358)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1347)
-	at com.techproeducation.backendproject.initialwork.Atlasschoolmanagementbackend.SchoolManagementApplication.main(SchoolManagementApplication.java:10)
+	at com.techproeducation.backendproject.initialwork.SchoolManagementApplication.main(SchoolManagementApplication.java:10)
 	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
 	at java.base/java.lang.reflect.Method.invoke(Method.java:577)
 	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:50)
@@ -373,7 +373,7 @@ Error starting ApplicationContext. To display the condition evaluation report re
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:334)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1358)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1347)
-	at com.techproeducation.backendproject.initialwork.Atlasschoolmanagementbackend.SchoolManagementApplication.main(SchoolManagementApplication.java:10)
+	at com.techproeducation.backendproject.initialwork.SchoolManagementApplication.main(SchoolManagementApplication.java:10)
 	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
 	at java.base/java.lang.reflect.Method.invoke(Method.java:577)
 	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:50)
@@ -458,8 +458,8 @@ Caused by: java.lang.Throwable: null
 		at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:521)
 		at org.hibernate.boot.registry.classloading.internal.AggregatedClassLoader.findClass(AggregatedClassLoader.java:206)
 		... 51 common frames omitted
-"2024-01-17 13:44:38,951 INFO  [restartedMain] com.techproeducation.backendproject.initialwork.Atlasschoolmanagementbackend.SchoolManagementApplication:Starting SchoolManagementApplication using Java 18.0.1.1 with PID 45441 (/Users/cagatayarik/IdeaProjects/Atlas-school-management-backend/target/classes started by cagatayarik in /Users/cagatayarik/IdeaProjects/Atlas-school-management-backend)
-""2024-01-17 13:44:38,953 INFO  [restartedMain] com.techproeducation.backendproject.initialwork.Atlasschoolmanagementbackend.SchoolManagementApplication:No active profile set, falling back to 1 default profile: "default"
+"2024-01-17 13:44:38,951 INFO  [restartedMain] com.techproeducation.backendproject.initialwork.SchoolManagementApplication:Starting SchoolManagementApplication using Java 18.0.1.1 with PID 45441 (/Users/cagatayarik/IdeaProjects/Atlas-school-management-backend/target/classes started by cagatayarik in /Users/cagatayarik/IdeaProjects/Atlas-school-management-backend)
+""2024-01-17 13:44:38,953 INFO  [restartedMain] com.techproeducation.backendproject.initialwork.SchoolManagementApplication:No active profile set, falling back to 1 default profile: "default"
 ""2024-01-17 13:44:39,076 INFO  [restartedMain] org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor:Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
 ""2024-01-17 13:44:39,076 INFO  [restartedMain] org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor:For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
 ""2024-01-17 13:44:40,882 INFO  [restartedMain] org.springframework.data.repository.config.RepositoryConfigurationDelegate:Bootstrapping Spring Data JPA repositories in DEFAULT mode.
@@ -523,7 +523,7 @@ Caused by: java.lang.Throwable: null
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:334)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1358)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1347)
-	at com.techproeducation.backendproject.initialwork.Atlasschoolmanagementbackend.SchoolManagementApplication.main(SchoolManagementApplication.java:10)
+	at com.techproeducation.backendproject.initialwork.SchoolManagementApplication.main(SchoolManagementApplication.java:10)
 	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
 	at java.base/java.lang.reflect.Method.invoke(Method.java:577)
 	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:50)
@@ -603,7 +603,7 @@ Error starting ApplicationContext. To display the condition evaluation report re
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:334)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1358)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1347)
-	at com.techproeducation.backendproject.initialwork.Atlasschoolmanagementbackend.SchoolManagementApplication.main(SchoolManagementApplication.java:10)
+	at com.techproeducation.backendproject.initialwork.SchoolManagementApplication.main(SchoolManagementApplication.java:10)
 	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
 	at java.base/java.lang.reflect.Method.invoke(Method.java:577)
 	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:50)
@@ -688,8 +688,8 @@ Caused by: java.lang.Throwable: null
 		at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:521)
 		at org.hibernate.boot.registry.classloading.internal.AggregatedClassLoader.findClass(AggregatedClassLoader.java:206)
 		... 51 common frames omitted
-"2024-01-17 13:46:01,815 INFO  [restartedMain] com.techproeducation.backendproject.initialwork.Atlasschoolmanagementbackend.SchoolManagementApplication:Starting SchoolManagementApplication using Java 18.0.1.1 with PID 45465 (/Users/cagatayarik/IdeaProjects/Atlas-school-management-backend/target/classes started by cagatayarik in /Users/cagatayarik/IdeaProjects/Atlas-school-management-backend)
-""2024-01-17 13:46:01,819 INFO  [restartedMain] com.techproeducation.backendproject.initialwork.Atlasschoolmanagementbackend.SchoolManagementApplication:No active profile set, falling back to 1 default profile: "default"
+"2024-01-17 13:46:01,815 INFO  [restartedMain] com.techproeducation.backendproject.initialwork.SchoolManagementApplication:Starting SchoolManagementApplication using Java 18.0.1.1 with PID 45465 (/Users/cagatayarik/IdeaProjects/Atlas-school-management-backend/target/classes started by cagatayarik in /Users/cagatayarik/IdeaProjects/Atlas-school-management-backend)
+""2024-01-17 13:46:01,819 INFO  [restartedMain] com.techproeducation.backendproject.initialwork.SchoolManagementApplication:No active profile set, falling back to 1 default profile: "default"
 ""2024-01-17 13:46:01,938 INFO  [restartedMain] org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor:Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
 ""2024-01-17 13:46:01,938 INFO  [restartedMain] org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor:For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
 ""2024-01-17 13:46:03,783 INFO  [restartedMain] org.springframework.data.repository.config.RepositoryConfigurationDelegate:Bootstrapping Spring Data JPA repositories in DEFAULT mode.
@@ -753,7 +753,7 @@ Caused by: java.lang.Throwable: null
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:334)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1358)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1347)
-	at com.techproeducation.backendproject.initialwork.Atlasschoolmanagementbackend.SchoolManagementApplication.main(SchoolManagementApplication.java:10)
+	at com.techproeducation.backendproject.initialwork.SchoolManagementApplication.main(SchoolManagementApplication.java:10)
 	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
 	at java.base/java.lang.reflect.Method.invoke(Method.java:577)
 	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:50)
@@ -833,7 +833,7 @@ Error starting ApplicationContext. To display the condition evaluation report re
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:334)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1358)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1347)
-	at com.techproeducation.backendproject.initialwork.Atlasschoolmanagementbackend.SchoolManagementApplication.main(SchoolManagementApplication.java:10)
+	at com.techproeducation.backendproject.initialwork.SchoolManagementApplication.main(SchoolManagementApplication.java:10)
 	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
 	at java.base/java.lang.reflect.Method.invoke(Method.java:577)
 	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:50)
@@ -918,8 +918,8 @@ Caused by: java.lang.Throwable: null
 		at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:521)
 		at org.hibernate.boot.registry.classloading.internal.AggregatedClassLoader.findClass(AggregatedClassLoader.java:206)
 		... 51 common frames omitted
-"2024-01-17 13:47:31,608 INFO  [restartedMain] com.techproeducation.backendproject.initialwork.Atlasschoolmanagementbackend.SchoolManagementApplication:Starting SchoolManagementApplication using Java 18.0.1.1 with PID 45485 (/Users/cagatayarik/IdeaProjects/Atlas-school-management-backend/target/classes started by cagatayarik in /Users/cagatayarik/IdeaProjects/Atlas-school-management-backend)
-""2024-01-17 13:47:31,610 INFO  [restartedMain] com.techproeducation.backendproject.initialwork.Atlasschoolmanagementbackend.SchoolManagementApplication:No active profile set, falling back to 1 default profile: "default"
+"2024-01-17 13:47:31,608 INFO  [restartedMain] com.techproeducation.backendproject.initialwork.SchoolManagementApplication:Starting SchoolManagementApplication using Java 18.0.1.1 with PID 45485 (/Users/cagatayarik/IdeaProjects/Atlas-school-management-backend/target/classes started by cagatayarik in /Users/cagatayarik/IdeaProjects/Atlas-school-management-backend)
+""2024-01-17 13:47:31,610 INFO  [restartedMain] com.techproeducation.backendproject.initialwork.SchoolManagementApplication:No active profile set, falling back to 1 default profile: "default"
 ""2024-01-17 13:47:31,722 INFO  [restartedMain] org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor:Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
 ""2024-01-17 13:47:31,722 INFO  [restartedMain] org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor:For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
 ""2024-01-17 13:47:33,516 INFO  [restartedMain] org.springframework.data.repository.config.RepositoryConfigurationDelegate:Bootstrapping Spring Data JPA repositories in DEFAULT mode.
@@ -983,7 +983,7 @@ Caused by: java.lang.Throwable: null
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:334)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1358)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1347)
-	at com.techproeducation.backendproject.initialwork.Atlasschoolmanagementbackend.SchoolManagementApplication.main(SchoolManagementApplication.java:10)
+	at com.techproeducation.backendproject.initialwork.SchoolManagementApplication.main(SchoolManagementApplication.java:10)
 	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
 	at java.base/java.lang.reflect.Method.invoke(Method.java:577)
 	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:50)
@@ -1063,7 +1063,7 @@ Error starting ApplicationContext. To display the condition evaluation report re
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:334)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1358)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1347)
-	at com.techproeducation.backendproject.initialwork.Atlasschoolmanagementbackend.SchoolManagementApplication.main(SchoolManagementApplication.java:10)
+	at com.techproeducation.backendproject.initialwork.SchoolManagementApplication.main(SchoolManagementApplication.java:10)
 	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
 	at java.base/java.lang.reflect.Method.invoke(Method.java:577)
 	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:50)
@@ -1148,8 +1148,8 @@ Caused by: java.lang.Throwable: null
 		at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:521)
 		at org.hibernate.boot.registry.classloading.internal.AggregatedClassLoader.findClass(AggregatedClassLoader.java:206)
 		... 51 common frames omitted
-"2024-01-17 13:48:10,121 INFO  [restartedMain] com.techproeducation.backendproject.initialwork.Atlasschoolmanagementbackend.SchoolManagementApplication:Starting SchoolManagementApplication using Java 18.0.1.1 with PID 45497 (/Users/cagatayarik/IdeaProjects/Atlas-school-management-backend/target/classes started by cagatayarik in /Users/cagatayarik/IdeaProjects/Atlas-school-management-backend)
-""2024-01-17 13:48:10,124 INFO  [restartedMain] com.techproeducation.backendproject.initialwork.Atlasschoolmanagementbackend.SchoolManagementApplication:No active profile set, falling back to 1 default profile: "default"
+"2024-01-17 13:48:10,121 INFO  [restartedMain] com.techproeducation.backendproject.initialwork.SchoolManagementApplication:Starting SchoolManagementApplication using Java 18.0.1.1 with PID 45497 (/Users/cagatayarik/IdeaProjects/Atlas-school-management-backend/target/classes started by cagatayarik in /Users/cagatayarik/IdeaProjects/Atlas-school-management-backend)
+""2024-01-17 13:48:10,124 INFO  [restartedMain] com.techproeducation.backendproject.initialwork.SchoolManagementApplication:No active profile set, falling back to 1 default profile: "default"
 ""2024-01-17 13:48:10,240 INFO  [restartedMain] org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor:Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
 ""2024-01-17 13:48:10,241 INFO  [restartedMain] org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor:For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
 ""2024-01-17 13:48:11,969 INFO  [restartedMain] org.springframework.data.repository.config.RepositoryConfigurationDelegate:Bootstrapping Spring Data JPA repositories in DEFAULT mode.
@@ -1213,7 +1213,7 @@ Caused by: java.lang.Throwable: null
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:334)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1358)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1347)
-	at com.techproeducation.backendproject.initialwork.Atlasschoolmanagementbackend.SchoolManagementApplication.main(SchoolManagementApplication.java:10)
+	at com.techproeducation.backendproject.initialwork.SchoolManagementApplication.main(SchoolManagementApplication.java:10)
 	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
 	at java.base/java.lang.reflect.Method.invoke(Method.java:577)
 	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:50)
@@ -1293,7 +1293,7 @@ Error starting ApplicationContext. To display the condition evaluation report re
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:334)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1358)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1347)
-	at com.techproeducation.backendproject.initialwork.Atlasschoolmanagementbackend.SchoolManagementApplication.main(SchoolManagementApplication.java:10)
+	at com.techproeducation.backendproject.initialwork.SchoolManagementApplication.main(SchoolManagementApplication.java:10)
 	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
 	at java.base/java.lang.reflect.Method.invoke(Method.java:577)
 	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:50)
@@ -1378,8 +1378,8 @@ Caused by: java.lang.Throwable: null
 		at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:521)
 		at org.hibernate.boot.registry.classloading.internal.AggregatedClassLoader.findClass(AggregatedClassLoader.java:206)
 		... 51 common frames omitted
-"2024-01-17 13:48:32,592 INFO  [restartedMain] com.techproeducation.backendproject.initialwork.Atlasschoolmanagementbackend.SchoolManagementApplication:Starting SchoolManagementApplication using Java 18.0.1.1 with PID 45508 (/Users/cagatayarik/IdeaProjects/Atlas-school-management-backend/target/classes started by cagatayarik in /Users/cagatayarik/IdeaProjects/Atlas-school-management-backend)
-""2024-01-17 13:48:32,595 INFO  [restartedMain] com.techproeducation.backendproject.initialwork.Atlasschoolmanagementbackend.SchoolManagementApplication:No active profile set, falling back to 1 default profile: "default"
+"2024-01-17 13:48:32,592 INFO  [restartedMain] com.techproeducation.backendproject.initialwork.SchoolManagementApplication:Starting SchoolManagementApplication using Java 18.0.1.1 with PID 45508 (/Users/cagatayarik/IdeaProjects/Atlas-school-management-backend/target/classes started by cagatayarik in /Users/cagatayarik/IdeaProjects/Atlas-school-management-backend)
+""2024-01-17 13:48:32,595 INFO  [restartedMain] com.techproeducation.backendproject.initialwork.SchoolManagementApplication:No active profile set, falling back to 1 default profile: "default"
 ""2024-01-17 13:48:32,709 INFO  [restartedMain] org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor:Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
 ""2024-01-17 13:48:32,711 INFO  [restartedMain] org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor:For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
 ""2024-01-17 13:48:34,491 INFO  [restartedMain] org.springframework.data.repository.config.RepositoryConfigurationDelegate:Bootstrapping Spring Data JPA repositories in DEFAULT mode.
@@ -1443,7 +1443,7 @@ Caused by: java.lang.Throwable: null
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:334)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1358)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1347)
-	at com.techproeducation.backendproject.initialwork.Atlasschoolmanagementbackend.SchoolManagementApplication.main(SchoolManagementApplication.java:10)
+	at com.techproeducation.backendproject.initialwork.SchoolManagementApplication.main(SchoolManagementApplication.java:10)
 	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
 	at java.base/java.lang.reflect.Method.invoke(Method.java:577)
 	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:50)
@@ -1523,7 +1523,7 @@ Error starting ApplicationContext. To display the condition evaluation report re
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:334)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1358)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1347)
-	at com.techproeducation.backendproject.initialwork.Atlasschoolmanagementbackend.SchoolManagementApplication.main(SchoolManagementApplication.java:10)
+	at com.techproeducation.backendproject.initialwork.SchoolManagementApplication.main(SchoolManagementApplication.java:10)
 	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
 	at java.base/java.lang.reflect.Method.invoke(Method.java:577)
 	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:50)
@@ -1608,8 +1608,8 @@ Caused by: java.lang.Throwable: null
 		at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:521)
 		at org.hibernate.boot.registry.classloading.internal.AggregatedClassLoader.findClass(AggregatedClassLoader.java:206)
 		... 51 common frames omitted
-"2024-01-17 13:49:48,922 INFO  [restartedMain] com.techproeducation.backendproject.initialwork.Atlasschoolmanagementbackend.SchoolManagementApplication:Starting SchoolManagementApplication using Java 18.0.1.1 with PID 45549 (/Users/cagatayarik/IdeaProjects/Atlas-school-management-backend/target/classes started by cagatayarik in /Users/cagatayarik/IdeaProjects/Atlas-school-management-backend)
-""2024-01-17 13:49:48,926 INFO  [restartedMain] com.techproeducation.backendproject.initialwork.Atlasschoolmanagementbackend.SchoolManagementApplication:No active profile set, falling back to 1 default profile: "default"
+"2024-01-17 13:49:48,922 INFO  [restartedMain] com.techproeducation.backendproject.initialwork.SchoolManagementApplication:Starting SchoolManagementApplication using Java 18.0.1.1 with PID 45549 (/Users/cagatayarik/IdeaProjects/Atlas-school-management-backend/target/classes started by cagatayarik in /Users/cagatayarik/IdeaProjects/Atlas-school-management-backend)
+""2024-01-17 13:49:48,926 INFO  [restartedMain] com.techproeducation.backendproject.initialwork.SchoolManagementApplication:No active profile set, falling back to 1 default profile: "default"
 ""2024-01-17 13:49:49,050 INFO  [restartedMain] org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor:Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
 ""2024-01-17 13:49:49,051 INFO  [restartedMain] org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor:For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
 ""2024-01-17 13:49:52,286 INFO  [restartedMain] org.springframework.data.repository.config.RepositoryConfigurationDelegate:Bootstrapping Spring Data JPA repositories in DEFAULT mode.
@@ -1678,7 +1678,7 @@ Caused by: java.lang.Throwable: null
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:334)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1358)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1347)
-	at com.techproeducation.backendproject.initialwork.Atlasschoolmanagementbackend.SchoolManagementApplication.main(SchoolManagementApplication.java:10)
+	at com.techproeducation.backendproject.initialwork.SchoolManagementApplication.main(SchoolManagementApplication.java:10)
 	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
 	at java.base/java.lang.reflect.Method.invoke(Method.java:577)
 	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:50)
@@ -1720,7 +1720,7 @@ Caused by: java.lang.Throwable: null
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:334)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1358)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1347)
-	at com.techproeducation.backendproject.initialwork.Atlasschoolmanagementbackend.SchoolManagementApplication.main(SchoolManagementApplication.java:10)
+	at com.techproeducation.backendproject.initialwork.SchoolManagementApplication.main(SchoolManagementApplication.java:10)
 	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
 	at java.base/java.lang.reflect.Method.invoke(Method.java:577)
 	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:50)
@@ -1748,7 +1748,7 @@ Error starting ApplicationContext. To display the condition evaluation report re
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:334)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1358)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1347)
-	at com.techproeducation.backendproject.initialwork.Atlasschoolmanagementbackend.SchoolManagementApplication.main(SchoolManagementApplication.java:10)
+	at com.techproeducation.backendproject.initialwork.SchoolManagementApplication.main(SchoolManagementApplication.java:10)
 	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
 	at java.base/java.lang.reflect.Method.invoke(Method.java:577)
 	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:50)
@@ -1833,8 +1833,8 @@ Caused by: java.lang.Throwable: null
 		at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:521)
 		at org.hibernate.boot.registry.classloading.internal.AggregatedClassLoader.findClass(AggregatedClassLoader.java:206)
 		... 51 common frames omitted
-"2024-01-17 13:53:14,637 INFO  [restartedMain] com.techproeducation.backendproject.initialwork.Atlasschoolmanagementbackend.SchoolManagementApplication:Starting SchoolManagementApplication using Java 18.0.1.1 with PID 45618 (/Users/cagatayarik/IdeaProjects/Atlas-school-management-backend/target/classes started by cagatayarik in /Users/cagatayarik/IdeaProjects/Atlas-school-management-backend)
-""2024-01-17 13:53:14,641 INFO  [restartedMain] com.techproeducation.backendproject.initialwork.Atlasschoolmanagementbackend.SchoolManagementApplication:No active profile set, falling back to 1 default profile: "default"
+"2024-01-17 13:53:14,637 INFO  [restartedMain] com.techproeducation.backendproject.initialwork.SchoolManagementApplication:Starting SchoolManagementApplication using Java 18.0.1.1 with PID 45618 (/Users/cagatayarik/IdeaProjects/Atlas-school-management-backend/target/classes started by cagatayarik in /Users/cagatayarik/IdeaProjects/Atlas-school-management-backend)
+""2024-01-17 13:53:14,641 INFO  [restartedMain] com.techproeducation.backendproject.initialwork.SchoolManagementApplication:No active profile set, falling back to 1 default profile: "default"
 ""2024-01-17 13:53:14,753 INFO  [restartedMain] org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor:Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
 ""2024-01-17 13:53:14,753 INFO  [restartedMain] org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor:For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
 ""2024-01-17 13:53:16,562 INFO  [restartedMain] org.springframework.data.repository.config.RepositoryConfigurationDelegate:Bootstrapping Spring Data JPA repositories in DEFAULT mode.
@@ -1898,7 +1898,7 @@ Caused by: java.lang.Throwable: null
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:334)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1358)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1347)
-	at com.techproeducation.backendproject.initialwork.Atlasschoolmanagementbackend.SchoolManagementApplication.main(SchoolManagementApplication.java:10)
+	at com.techproeducation.backendproject.initialwork.SchoolManagementApplication.main(SchoolManagementApplication.java:10)
 	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
 	at java.base/java.lang.reflect.Method.invoke(Method.java:577)
 	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:50)
@@ -1978,7 +1978,7 @@ Error starting ApplicationContext. To display the condition evaluation report re
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:334)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1358)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1347)
-	at com.techproeducation.backendproject.initialwork.Atlasschoolmanagementbackend.SchoolManagementApplication.main(SchoolManagementApplication.java:10)
+	at com.techproeducation.backendproject.initialwork.SchoolManagementApplication.main(SchoolManagementApplication.java:10)
 	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
 	at java.base/java.lang.reflect.Method.invoke(Method.java:577)
 	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:50)
